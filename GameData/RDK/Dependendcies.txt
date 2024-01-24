@@ -1,0 +1,5 @@
+Required Dependendcies:  Kopernicus, SigmaDimensions
+
+Supported Optional Dependencies: EVE, Scatterer, Kronometer, Principia, Parallax
+
+Set Kerbal Gee Tolerance to 0.5x for best experience.  Only use Terrain Preset high.
