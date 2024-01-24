@@ -1,6 +1,8 @@
 # RDK
 A Realistic Density Kerbolar System config pack for KSP/Kopernicus
 
+License:  UnLicense
+
 This mod does the following things:
 
 1.) Rescales the stock sun to represent a fully physically/graviationally/density correct spectral type G6V star, using OhioBob's wonderful KSPAtmoCalculator excel doc.
