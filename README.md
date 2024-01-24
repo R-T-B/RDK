@@ -19,6 +19,8 @@ This mod does the following things:
 
 7.) If Principia is present, retrobop modification is applied to keep Jool stable (may not be needed but better safe than sorry).
 
+8.) To ensure the worlds are not entirely flat at this rescale, landscape height is raised a bit (technically x1.25) and the PQS level is raised a 2 levels.
+
 Required mods are Kopernicus & SigmaDimensions
 
 You'll get a better experience if you add the following optional mods:
