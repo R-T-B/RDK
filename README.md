@@ -23,7 +23,7 @@ Required mods are Kopernicus & SigmaDimensions
 
 You'll get a better experience if you add the following optional mods:
 
-EVE (Volumterics work too), Scatterer, Parallax, Kronometer
+EVE (Volumterics work too), Scatterer, Parallax, Kronometer (Custom Calendar is explained in zip of release), uses 24h days.
 
 If you want to play "hard mode" try adding Principia (it works and is how I really play!)
 
